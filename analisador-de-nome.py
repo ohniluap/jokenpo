@@ -1,0 +1,8 @@
+nome = input('Digite seu nome completo: ').strip()
+dividido = nome.split()
+quantSE = len(nome.replace(' ', ''))
+quantPN = len(dividido[0])
+print('Em maiúscula: {}'.format(nome.upper()))
+print('Em minúscula: {}'.format(nome.lower()))
+print('Quantidade de letras: {}'.format(quantSE))
+print('Quantidade de letras do primeiro nome: {}'.format(quantPN))
