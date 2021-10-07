@@ -28,8 +28,8 @@ while v != 5:
         v2 = int(input('Segundo valor: '))
     elif v == 5:
         print('Finalizando...')
-        sleep(1)
     else:
         print('Opção inválida. Tente novamente!')
     print('-='*17)
+    sleep(2)
 print('Fim do programa. Volte sempre!')
