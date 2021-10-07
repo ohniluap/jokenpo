@@ -4,3 +4,4 @@ if velocidade <= 80:
 else:
     print('MULTADO! Você excedeu o limite permitido  que é de 80km/h.\nVocê deve pagar uma multa de R${:.2f}!'.format((velocidade - 80) * 7))
     print('Tenha um bom dia! Dirija com segurança.')
+    

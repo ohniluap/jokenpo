@@ -9,3 +9,4 @@ elif base == 2:
 elif base == 3:
     hex = format(num, 'x')
     print('{} convertido para hexadecimal é igual a {}.'.format(num, hex))
+    

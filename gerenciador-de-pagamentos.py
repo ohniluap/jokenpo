@@ -20,3 +20,4 @@ elif opção == 4:
     print('A compra de R${:.2f} vai custar {:.2f} no final.'.format(valor, valornovo))
 else:
     print('OPÇÃO INVÁLIDA, Tente novamente!')
+    

@@ -6,3 +6,4 @@ elif nota2 > nota1:
     print('O \033[33mSegundo\033[m valor é o maior.')
 else:
     print('Os dois valores são iguais.')
+    

@@ -13,3 +13,4 @@ elif idade <= 25:
     print('CLASSIFICAÇÃO: SÊNIOR')
 else:
     print('CLASSIFICAÇÃO: MASTER')
+    
