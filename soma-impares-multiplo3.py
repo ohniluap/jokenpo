@@ -1,5 +1,4 @@
-cont = 0
-soma = 0
+cont = soma = 0
 i = int(input('Digite o Início: '))
 f = int(input('Digite o Fim: '))
 for contagem in range(i, f + 1, 2):
